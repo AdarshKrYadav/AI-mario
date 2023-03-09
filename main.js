@@ -6,7 +6,7 @@ function preload() {
 	coin_collect=loadSound("coin.wav");
 	game_over=loadSound("gameover.wav");
 	killing=loadSound("kick.wav");
-	dies=loadSound("maiodie.wav");
+	dies=loadSound("mariodie.wav");
 
 	setSprites();
 	MarioAnimation();
